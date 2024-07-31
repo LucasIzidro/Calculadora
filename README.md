@@ -32,3 +32,20 @@
 -  print('\nEscolheu a divisão, resultando em: ', div)
 -else:
 -  print('\nOpção Inválida. Tente Novamente! \nLembrando que só aceitamos 1, 2, 3 ou 4!')
+
+# Usando o arquivo shell
+### Pré-requisitos
+
+- Sistema Operacional: O script foi desenvolvido e testado no Linux. Pode funcionar em outros sistemas UNIX-like como macOS.
+- Permissões: Veja se você tem permissões de execução para o arquivo shell.
+- Dependências: Verifique se todas as dependências mencionadas no projeto estão instaladas.
+
+### Passo a passo
+- 1. Navegue até o diretório do projeto, abrindo o terminal. Por exemplo:
+     cd /caminho/projeto
+- 2. Verique as permissões do arquivo Shell. Caso não tenha, fazer por exemplo:
+    chmod +x seu_script.sh
+- 3. Execute. Por exemplo:
+     ./seu_script.sh
+     
+     
