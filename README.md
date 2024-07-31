@@ -6,7 +6,7 @@
 * 3 - Escolher o Tipo de operação
 * 4 - Tela de resultado
   
-Solicitando ao usuário os números
+Solicitando ao usuário os números \n
 num1 = float(input('Digite o primeiro número: '))
 num2 = float(input('Digite o segundo número: '))
 
